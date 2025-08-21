@@ -1,0 +1,3 @@
+covidenv/
+*.pyc
+__pycache__/
